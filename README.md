@@ -1,6 +1,6 @@
 "# Ca4_Nhom4_PTTK" 
 
-Số Lượng Thành Viên:
+Số Lượng Thành Viên: 5
 1. Nguyễn Đức Dương
 2. Trần Hoàng Hải
 3. Nguyễn Cao Minh Trung
